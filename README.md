@@ -2,8 +2,8 @@
 ### Name : Keval Rathod
 ### Intern ID : CT04DG627
 ### Domain : Data Analytics
-# Duration : 4 Weeks
-# Mentor Name : Neela Santosh
+### Duration : 4 Weeks
+### Mentor Name : Neela Santosh
 
 
 ### Project Description: HR Dashboard — Full Insights for Workforce Analysis
