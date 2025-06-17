@@ -6,7 +6,7 @@
 ### Mentor Name : Neela Santosh
 
 
-### Project Description: HR Dashboard — Full Insights for Workforce Analysis
+# Project Description: HR Dashboard — Full Insights for Workforce Analysis
 In this project, I designed and developed an interactive HR dashboard to provide comprehensive insights into the organization’s workforce. The dashboard visualizes key HR metrics to support data-driven decision-making regarding promotions, retrenchment, job satisfaction, and overtime.
 
 ### Key Components
